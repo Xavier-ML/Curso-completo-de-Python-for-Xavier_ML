@@ -46,7 +46,7 @@
 * 
 
 ## Cursos Online
-*(https://cursos.frogamesformacion.com/courses/take/python-az/lessons/36419365-tu-cuaderno-para-tomar-notas-online-sobre-el-curso)
+*[Curso completo de Python de la A a la Z](https://cursos.frogamesformacion.com/courses/take/python-az/lessons/36419365-tu-cuaderno-para-tomar-notas-online-sobre-el-curso)
 
 ## Revistas de investigación y papers
 * 
