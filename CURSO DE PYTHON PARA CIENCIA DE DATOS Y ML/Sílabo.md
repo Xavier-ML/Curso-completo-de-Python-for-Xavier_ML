@@ -12,7 +12,6 @@
    
        5.2.1 Aplicaciones reales
 7. Regresión
-   
      6.1 Regresión lineal Simple
    
      6.2 Regresión Lineal Múltiple
