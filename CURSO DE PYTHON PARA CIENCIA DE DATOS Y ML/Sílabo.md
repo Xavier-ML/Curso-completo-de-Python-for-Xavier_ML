@@ -8,15 +8,17 @@
      5.1 Numpy
    
        5.1.1 Aplicaciones reales
+   
      5.2 Pandas
    
        5.2.1 Aplicaciones reales
 7. Regresión
-     6.1 Regresión lineal Simple
    
-     6.2 Regresión Lineal Múltiple
+     * Regresión lineal Simple
+   
+     * Regresión Lineal Múltiple
 
-     6.3 Regresión Polinómica
+     * Regresión Polinómica
    
 7.Árboles de Regresión
 8.Bosques aleatorios de regresión
