@@ -7,7 +7,7 @@
 5. estudio de paquetes y enlaces
      5.1 Numpy
    
-       5.1.1 Aplicaciones reales
+        5.1.1 Aplicaciones reales
    
      5.2 Pandas
    
